@@ -14,7 +14,7 @@ Direct ink to PCB CNC plotter by Dirk Herrendoerfer
 - Part 2 http://www.youtube.com/watch?v=QPSfbl...
 - Part 3: https://www.youtube.com/watch?v=kcXla...
 
-This is my attempt of putting some leftover hardware together 
+" This is my attempt of putting some leftover hardware together 
 to build a plotter to help me create PCB designs from scratch.
 It plots directly onto the copper board so all I then need to do is 
 etch it, and go ! My requirements are rather humble I must admit, 2.54mm raster 
@@ -33,5 +33,6 @@ Update 2016/04/18: Pushed updates to the firmware, please update to the latest r
 The aduino firmware used for this is available for
 download via github. 
 See here: https://github.com/dherrendoerfer/uCN...
-It is published under GPLv2 and should be considered beta quality.
+It is published under GPLv2 and should be considered beta quality."
+
 
