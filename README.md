@@ -8,17 +8,11 @@ thru a mix of HCL and H2O2 to etch away copper that has not been covered by the 
 this video shows a perfect simple setup thay would work on the tec1. 
 
 ### notes from video
-Dirk Herrendoerfer
-11K subscribers
+Direct ink to PCB CNC plotter by Dirk Herrendoerfer
 
-Direct ink to PCB CNC plotter
-
-Part 1 https://www.youtube.com/watch?v=rLQajSRnELc
-
-
-Part 2 http://www.youtube.com/watch?v=QPSfbl...
-
-Part 3: https://www.youtube.com/watch?v=kcXla...
+- Part 1 https://www.youtube.com/watch?v=rLQajSRnELc
+- Part 2 http://www.youtube.com/watch?v=QPSfbl...
+- Part 3: https://www.youtube.com/watch?v=kcXla...
 
 This is my attempt of putting some leftover hardware together 
 to build a plotter to help me create PCB designs from scratch.
@@ -29,7 +23,6 @@ I have been using this a lot lately, and I must admit it works just
 fine. For final PCBs I still use ordering services, but not as often 
 as I used to ...
 
-Edit:
 It seems the the link to the python g-code GUI is dead,
 I moved the ardGcodeWriter.py to the github repo down below, since
 I seem to be maintaining it now. It can be found in the Extras directory.
@@ -38,7 +31,7 @@ I seem to be maintaining it now. It can be found in the Extras directory.
 Update 2016/04/18: Pushed updates to the firmware, please update to the latest release.
 
 The aduino firmware used for this is available for
-download via github. See here:
-https://github.com/dherrendoerfer/uCN...
+download via github. 
+See here: https://github.com/dherrendoerfer/uCN...
 It is published under GPLv2 and should be considered beta quality.
 
