@@ -32,7 +32,7 @@ Update 2016/04/18: Pushed updates to the firmware, please update to the latest r
 
 The aduino firmware used for this is available for
 download via github. 
-See here: https://github.com/dherrendoerfer/uCN...
+See here: https://github.com/dherrendoerfer/
 It is published under GPLv2 and should be considered beta quality."
 
 
