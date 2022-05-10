@@ -36,3 +36,10 @@ See here: https://github.com/dherrendoerfer/uCNC_controller
 It is published under GPLv2 and should be considered beta quality."
 
 
+### G-code 
+" ...is a software programming language used to control a CNC machine. And, even with complex CNC machining, G-code is written in a straightforward, logical way. A “G” is followed by a number, which is a command to change geometry. For instance, “G00” is a command for rapid movement." [1] 
+
+
+### Ref
+- https://www.steckermachine.com/blog/g-code-and-m-code-programming ..1
+
